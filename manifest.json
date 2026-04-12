@@ -1,6 +1,6 @@
 {
-    "name": "cyberlab",
-    "short_name": "cyberlab",
+    "name": "cyberlab_clean",
+    "short_name": "cyberlab_clean",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
